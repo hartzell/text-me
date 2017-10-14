@@ -1,3 +1,7 @@
+# ignore the application
+text-me
+
+#
 # Binaries for programs and plugins
 *.exe
 *.dll
